@@ -1,0 +1,51 @@
+d:\emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.csprojResolveAssemblyReference.cache
+d:\emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.Form1.resources
+d:\emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.Properties.Resources.resources
+d:\emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.csproj.GenerateResource.Cache
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DND.exe.config
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DND.exe
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DND.pdb
+d:\emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.exe
+d:\emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.pdb
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Curse of Strahd Bestiary.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Hoard of the Dragon Queen Bestiary.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Monster Manual Bestiary.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Out of the Abyss.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Phandelver Bestiary.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Player Bestiary.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Princes of the Apocalypse Bestiary.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Storm King's Thunder.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Tales From the Yawining Portal Bestiary.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\The Rise of Tiamat Bestiary.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\Volo's Bestiary.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Items\Magic Items.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Items\Mundane Items.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Items\Valuable Items.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Spells\ElementalEvil Spells.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Spells\PHB Spells.xml
+d:\emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Spells\SwordCoastAdventurersGuide Spells.xml
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.ItemPanel.resources
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.ItemsBrowserPanel.resources
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.BestiaryBrowserPanel.resources
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.BestiaryPanel.resources
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.SpellPanel.resources
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.SpellBrowserPanel.resources
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.ResourcesPanel.resources
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Bestiary\HomeBrew.xml
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Items\Homebrew.xml
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\bin\Debug\DnDResources\Spells\Homebrew.xml
+d:\Emily\documents\visual studio 2017\Projects\DND\DND\obj\Debug\DND.csproj.ResolveComReference.cache
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.csprojResolveAssemblyReference.cache
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.csproj.ResolveComReference.cache
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.Form1.resources
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.BestiaryBrowserPanel.resources
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.BestiaryPanel.resources
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.ResourcesPanel.resources
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.ItemPanel.resources
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.ItemsBrowserPanel.resources
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.SpellBrowserPanel.resources
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.Panels.SpellPanel.resources
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.Properties.Resources.resources
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.csproj.GenerateResource.Cache
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.exe
+D:\John\Documents\Visual Studio 2017\Projects\DND\DND\obj\Debug\DND.pdb

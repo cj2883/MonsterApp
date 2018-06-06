@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+<!--	<monster>
+		<name>Evil Mage</name>
+		<size>M</size>
+		<type>humanoid (human), lost mine of phandelver</type>
+		<alignment>lawful evil</alignment>
+		<ac>12</ac>
+		<hp>22 (5d8)</hp>
+		<speed>30 ft.</speed>
+		<str>9</str>
+		<dex>14</dex>
+		<con>11</con>
+		<int>17</int>
+		<wis>12</wis>
+		<cha>11</cha>
+		<save>Int +5, Wis +3</save>
+		<skill>Arcana +5, History +5</skill>
+		<passive>11</passive>
+		<languages>Common, Draconic, Dwarvish, Elvish</languages>
+		<cr>1</cr>
+		<trait>
+			<name>Spellcasting</name>
+			<text>The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list: </text>
+			<text />
+			<text>• Cantrips (at will): light, mage hand, shocking grasp</text>
+			<text>• 1st Level (4 slots): charm person, magic missile</text>
+			<text>• 2nd Level (3 slots): hold person, misty step</text>
+		</trait>
+		<action>
+			<name>Quarterstaff</name>
+			<text>Melee Weapon Attack: +1 to hit, reach 5 ft., one target.  Hit: 3 (1d8-1) bludgeoning damage.</text>
+			<attack>One Handed|1|1d6-1</attack>
+			<attack>Two Handed|1|1d8-1</attack>
+		</action>
+		<spells>light, mage hand, shocking grasp, charm person, magic missile, hold person, misty step</spells>
+		<slots>4,3,0,0,0,0,0,0,0</slots>
+	</monster>-->
+</compendium>
+
